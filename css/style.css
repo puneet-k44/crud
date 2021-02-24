@@ -8,6 +8,7 @@ fieldset{
 	padding: unset;
 	border: none;
 	display: none;
+	width: 100%;
 }
 .container{
 	width: 100%;

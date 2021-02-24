@@ -20,25 +20,46 @@
 		
 			<fieldset style="display: block;">
 				<div class="first_step">
-					<div class="container"><a href="javascript:void(0);" class="choose_btn"><h1>First Step optin 1</h1></a></div>
+					<div class="container">
+						<a href="javascript:void(0);" class="choose_btn">
+							<h1>First Step optin sss1</h1>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti ut, culpa, voluptatibus dolor cumque cupiditate incidunt animi amet ipsa voluptas quas molestiae accusantium unde? Laudantium consequuntur rem molestias tempora et.</p>
+						</a>
+					</div>
 				</div>
 			</fieldset>
 		
 			<fieldset>
 				<div class="first_step">
-					<div class="container"><a href="javascript:void(0);" class="choose_btn"><h1>Second Step option 2</h1></a></div>
+					<div class="container">
+						<a href="javascript:void(0);" class="choose_btn">
+							<h1>Second Step option 2</h1>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum sed in quod totam incidunt delectus soluta nihil molestias? Cum labore magni aperiam blanditiis aspernatur, quidem voluptate dignissimos placeat distinctio soluta.</p>
+						</a>
+					</div>
 				</div>
 			</fieldset>
 		
 			<fieldset>
 				<div class="first_step">
-					<div class="container"><a href="javascript:void(0);" class="choose_btn"><h1>Third Step option 3</h1></a></div>
+					<div class="container">
+						<a href="javascript:void(0);" class="choose_btn">
+							<h1>Third Step option 3</h1>
+							<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut similique accusamus corrupti magni maxime cumque aperiam deleniti facere saepe, ex dignissimos animi magnam in possimus odit cupiditate a labore dolorem!</p>
+						</a>
+					</div>
 				</div>
 			</fieldset>
 			
 			<fieldset>
 				<div class="first_step">
-					<div class="container"><a href="javascript:void(0);" class=""><h1>Fourth Step option 4</h1></a></div>
+					<div class="container">
+						<a href="javascript:void(0);" class="">
+							<h1>Fourth Step option 4</h1>
+							<p>Paragraph</p>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus voluptates voluptas animi repellendus deleniti, nemo architecto reprehenderit in recusandae! Neque harum necessitatibus, doloremque voluptates quo id repellat eaque aspernatur voluptate?</p>
+						</a>
+					</div>
 				</div>
 			</fieldset>
 		
@@ -60,6 +81,5 @@
 				next.fadeIn().css("margin-left","0px");
 			});
 		})
-		alert();
 	})
 </script>
