@@ -1,0 +1,27 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+fieldset{
+	margin: unset;
+	padding: unset;
+	border: none;
+	display: none;
+}
+.container{
+	width: 100%;
+	max-width: 1200px;
+	margin: 0px auto;
+}
+.header_area{
+	padding: 50px 0px;
+	background-color: #423440;
+}
+.header_area a{
+	color: #fff;
+}
+fieldset {
+    margin-left: 101%;
+    transition: all 2s;
+}
