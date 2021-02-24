@@ -26,19 +26,19 @@
 		
 			<fieldset>
 				<div class="first_step">
-					<div class="container"><a href="javascript:void(0);" class="choose_btn"><h1>Second Step</h1></a></div>
+					<div class="container"><a href="javascript:void(0);" class="choose_btn"><h1>Second Step option 2</h1></a></div>
 				</div>
 			</fieldset>
 		
 			<fieldset>
 				<div class="first_step">
-					<div class="container"><a href="javascript:void(0);" class="choose_btn"><h1>Third Step</h1></a></div>
+					<div class="container"><a href="javascript:void(0);" class="choose_btn"><h1>Third Step option 3</h1></a></div>
 				</div>
 			</fieldset>
 			
 			<fieldset>
 				<div class="first_step">
-					<div class="container"><a href="javascript:void(0);" class=""><h1>Fourth Step</h1></a></div>
+					<div class="container"><a href="javascript:void(0);" class=""><h1>Fourth Step option 4</h1></a></div>
 				</div>
 			</fieldset>
 		
@@ -60,5 +60,6 @@
 				next.fadeIn().css("margin-left","0px");
 			});
 		})
+		alert();
 	})
 </script>
